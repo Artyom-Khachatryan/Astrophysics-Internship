@@ -1,1 +1,1 @@
-I use R2 score and MSE(mean squared error) as evaluation metric. MSE show squared difference between actual and predicted value
+I use R2 score, also known as the coefficient of determination, and MSE (Mean Squared Error) as evaluation metrics. R2 score measures the proportion of the variance in the dependent variable that is predictable from the independent variables, providing a measure of how well the model fits the data. Meanwhile, MSE quantifies the squared difference between actual and predicted values, offering insight into the average magnitude of prediction errors.
